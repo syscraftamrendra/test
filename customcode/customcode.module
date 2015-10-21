@@ -1,6 +1,5 @@
 <?php
-// Test By AMar
-
+// Test By Amar Test By AmarTest By AmarTest By AmarTest By AmarTest By Amar 
 define('TIME_SPENT_TIMER', 30); //seconds. the time between one ajax call and other
 define('TIME_SPENT_LIMIT', 30); //minutes. once this limit is reached we'll stop the monitoring
 function time_spent_help($path, $arg) {
